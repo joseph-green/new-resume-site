@@ -1,0 +1,10 @@
+{
+    "list": [
+        {
+            "name": "etaki",
+            "url": "etaki.joseph.green",
+            "desc": "Browser Word Game built in ReactJS",
+            "github": "https://github.com/joseph-green/etaki"
+        }
+    ]
+}

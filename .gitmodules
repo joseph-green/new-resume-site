@@ -1,0 +1,3 @@
+[submodule "themes/jocacto"]
+	path = themes/jocacto
+	url = https://github.com/joseph-green/jocacto.git

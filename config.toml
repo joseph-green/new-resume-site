@@ -1,0 +1,41 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Joseph Green'
+
+theme = 'jocacto'
+
+[params]
+  colortheme = "white"
+  description = "Hello I'm Joe. I'm a B.C.S. Computer Science graduate at the University of Waterloo. "
+  showExperienceList = false
+
+  mainSectionTitle = "Posts"
+  showPosts = true
+  
+  
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Resume"
+    url = "https://resume.joseph.green"
+    weight = 2
+
+
+[[menu.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 4
+
+[[menu.main]]
+    name = "Github"
+    url = "https://github.com/joseph-green"
+    weight = 5
+
+[[menu.main]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/joseph-p-green/"
+    weight = 6
+

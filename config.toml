@@ -6,12 +6,16 @@ theme = 'jocacto'
 
 [params]
   colortheme = "white"
-  description = "Hello I'm Joe. I'm a B.C.S. Computer Science graduate at the University of Waterloo. "
+  description = "Hello I'm Joe. I'm a B.C.S. Computer Science graduate from the University of Waterloo. This is a place to share what I've been thinking about and what I've been working on. Enjoy!"
   showExperienceList = false
 
   mainSectionTitle = "Posts"
   showPosts = true
-  
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   
 [[menu.main]]
     name = "Home"
@@ -20,7 +24,7 @@ theme = 'jocacto'
 
 [[menu.main]]
     name = "Resume"
-    url = "https://resume.joseph.green"
+    url = "https://joseph.green/JosephGreenResume.pdf"
     weight = 2
 
 

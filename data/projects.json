@@ -2,9 +2,14 @@
     "list": [
         {
             "name": "etaki",
-            "url": "etaki.joseph.green",
-            "desc": "Browser Word Game built in ReactJS",
+            "url": "https://etaki.joseph.green",
+            "desc": "DNA-inspired word game built using the MERN stack",
             "github": "https://github.com/joseph-green/etaki"
+        },
+        {
+            "name": "fantano.ai",
+            "desc": "Review data scraper and Machine Learning model to predict music reviews from popular YouTube music reviewer Anthony Fantano",
+            "github": "https://github.com/joseph-green/fantano.ai"
         }
     ]
 }

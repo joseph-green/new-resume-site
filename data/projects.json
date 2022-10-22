@@ -8,6 +8,7 @@
         },
         {
             "name": "fantano.ai",
+            "url": "https://www.kaggle.com/datasets/josephgreen/anthony-fantano-album-review-dataset",
             "desc": "Review data scraper and Machine Learning model to predict music reviews from popular YouTube music reviewer Anthony Fantano",
             "github": "https://github.com/joseph-green/fantano.ai"
         }

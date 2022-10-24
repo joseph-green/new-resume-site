@@ -3,3 +3,4 @@
 resources/_gen/
 *.lock
 *.pem
+public
